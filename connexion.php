@@ -13,5 +13,5 @@ $db = new PDO(
     $user,
     $password
 );
-
+var_dump($db)
 ?>
