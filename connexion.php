@@ -1,3 +1,5 @@
+<?php
+
 $host = "db.3wa.io";
 $port = "3306";
 $dbname = "yasminaabdouni_phpj6";
@@ -11,3 +13,5 @@ $db = new PDO(
     $user,
     $password
 );
+
+?>
